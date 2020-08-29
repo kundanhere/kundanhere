@@ -1,6 +1,6 @@
 # Hi, I'm Kundan 👋🏾 👨🏾‍💻
 
-![banner-image](./gh-header-background.png)
+![banner-image](https://raw.githubusercontent.com/kugupta/kugupta/master/gh-header-background.png)
 
 I'm a passionate about self-taught Developer and UI/UX Designer. I have worked on different projects and platforms like Visual Studio, software and website development but I really like the frontend and all its ecosystem. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and C#.NET.
 In my free time, I prefer to make open-source project to boost my skills and build the confidence.
