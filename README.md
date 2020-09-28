@@ -11,7 +11,7 @@ In my free time, I prefer to make open-source project to boost my skills and bui
 
 ## Find me around the web
 
-- Follow me on [Instagram](https://www.instagram.com/kundangupta2001/?hl=en) ✌🏼
+- Follow me on [Instagram](https://www.instagram.com/kundang25/?hl=en) ✌🏼
 - Tinkering with interactions on [Codepen](https://codepen.io/kundanhere) 🏓
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/kundan-gupta) 💼
 
