@@ -2,8 +2,7 @@
 
 [<img alt="header-image" src="https://raw.githubusercontent.com/kugupta/kugupta/master/gh-header-background.png" />](#)
 
-I'm a developer who is passionate about designing & developing web and desktop applications. I have worked on different projects and platforms like Visual Studio, software and website development but I really like the frontend and all its ecosystem. Some technologies I enjoy working with include ReactJS, JavaScript, APIs + Markup and C#.NET.
-In my free time, I prefer to make open-source project to boost my skills and build the confidence.
+I'm a developer who is passionate about designing & developing web and desktop applications. I even have worked on different projects and platforms like software and website development but I actually like the frontend and all its ecosystem. Some technologies I enjoy working with includes VueJS, JavaScript, APIs + Markup and C#.NET. In my free time, I prefer to make open source project to shine my skills and support the open-source community.
 
 <br />
 
