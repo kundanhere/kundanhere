@@ -2,7 +2,13 @@
 
 [<img alt="header-image" src="https://raw.githubusercontent.com/kugupta/kugupta/master/gh-header-background.png" />](#)
 
-I'm a developer who is passionate about designing & developing web and desktop applications. I even have worked on different projects and platforms like software and website development but I actually like the frontend and all its ecosystem. Some technologies I enjoy working with includes VueJS, JavaScript, APIs + Markup and C#.NET. In my free time, I prefer to make open source project to shine my skills and support the open-source community.
+I’m a passionate developer dedicated to turning ideas into clean, efficient, and scalable web applications. With hands-on experience in Node.js backend, React, Next.js, MongoDB, MySQL, REST APIs, and TailwindCSS, I’ve built solutions that not only perform well but also delight users with smooth and intuitive interfaces. My work consistently focuses on balancing thoughtful design with robust engineering to create impactful applications.
+
+One of my biggest wins has been successfully architecting backend systems that efficiently manage complex data and integrating them seamlessly with modern frontends. I thrive on problem-solving—whether optimizing performance, ensuring reliable REST API communication, or crafting flexible UI designs with React and TailwindCSS. My technical versatility allows me to contribute across the stack and drive projects forward with meaningful results.
+
+When I’m not coding, I like to stay up-to-date by contributing to open-source projects and learning something new every day. I’m always interested in meeting others who are passionate about tech, sharing knowledge, and working together on great ideas.
+
+Let’s connect if you want to chat about web development, open-source, or building something impactful together!
 
 <br />
 
