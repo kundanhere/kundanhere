@@ -1,6 +1,6 @@
 ## Hi, I'm Kundan 👋🏾 👨🏾‍💻
 
-[<img alt="header-image" src="https://raw.githubusercontent.com/kugupta/kugupta/master/gh-header-background.png" />](#)
+[<img alt="header-image" src="https://raw.githubusercontent.com/kundanhere/kundanhere/refs/heads/master/gh-header-background.png" />](#)
 
 I’m a passionate developer dedicated to turning ideas into clean, efficient, and scalable web applications. With hands-on experience in Node.js backend, React, Next.js, MongoDB, MySQL, REST APIs, and TailwindCSS, I’ve built solutions that not only perform well but also delight users with smooth and intuitive interfaces. My work consistently focuses on balancing thoughtful design with robust engineering to create impactful applications.
 
